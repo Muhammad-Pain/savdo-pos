@@ -1,4 +1,4 @@
 # Atlas — site bundle
 
 Built site (brotli JSON) fetched by the Vercel build step.
-sha256: 0577a4b100cf601f4ba169f49e0e097a44502792522d3c1e2b68fe699986492a
+sha256: a6033212db4595a08d9d24c21ec587ca3e75dbe1a4e264979e9daf0f61e314c4
